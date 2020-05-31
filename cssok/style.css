@@ -1,0 +1,52 @@
+@font-face
+{
+    font-family: Oswald;
+    src: url(/font/Oswald-Light.ttf);
+    font-weight: 500;
+}
+@font-face
+{
+    font-family: Oswald-l;
+    src: url(/font/Oswald-Bold.ttf);
+    font-weight: 200;
+}
+@import url('https://fonts.googleapis.com/css2?family=Kodchasan:wght@200&display=swap');
+h1 {
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+ }
+ h3{
+     font-family: Arial, Helvetica, sans-serif;
+}
+
+#bio {
+    color: brown;
+ }
+#skills {
+    color: chartreuse;
+ }
+.content {
+    color: grey;
+    font-size: 22px;
+    font-family: 'Kodchasan', sans-serif;
+    text-align: justify;
+    line-height: normal;
+ }
+ .bold
+ {
+    font-weight: bold;
+ }
+ .img-div
+ {
+    background-color: chocolate;
+ }
+ .light
+ {
+    background-color: crimson;
+ }
+img {
+    height: 150px;
+    margin: 10px;
+    box-shadow: 5px 5px 10px black;
+ }
